@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background-color: white;
+}
+#header{
+	background-color: #3b5998;
+	height: 85px;
+}
+#head-cont img
+{
+	height: 78px;
+	margin-left: 120px;
+	float: left;
+	margin-top: 7px;
+}
+#login{
+	float: right;
+	margin-top: 13px;
+}
+#login table
+{
+	color: white;
+	font-family: arial;
+	font-size: 12px;
+}
+#login table td
+{
+	padding-left: 8px;
+	padding-bottom: 2px;
+}
+#login table td a
+{
+	text-decoration: none;
+	color: lightblue;
+}
+#login table input[type=text],input[type=password]
+{
+	width: 140px;
+	padding: 2px;
+}
+#login table input[type=button]
+{
+	background-color: #4F7183;
+	border: 1px solid black;
+	padding: 2px 5px;
+	color: white;
+
+}
+
